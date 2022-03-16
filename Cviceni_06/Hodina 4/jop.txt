@@ -1,0 +1,5 @@
+Jmeno: Martin , rok narozeni: 2000 , studijni prumer: 1.0
+Jmeno: David , rok narozeni: 2145 , studijni prumer: 4.0
+Jmeno: Petr , rok narozeni: 2000 , studijni prumer: 5.0
+Jmeno: Jakub , rok narozeni: 2145 , studijni prumer: 1.0
+Jmeno: Ondra , rok narozeni: 2000 , studijni prumer: 2.0
